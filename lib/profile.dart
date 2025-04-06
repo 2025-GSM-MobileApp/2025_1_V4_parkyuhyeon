@@ -124,6 +124,7 @@ class _ProfileState extends State<Profile> {
                               Expanded(
                                 child: ElevatedButton(
                                   style: ElevatedButton.styleFrom(
+                                    backgroundColor: lightGrey,
                                     foregroundColor: Colors.white,
 
                                     elevation: 0,
@@ -163,6 +164,8 @@ class _ProfileState extends State<Profile> {
                               Expanded(
                                 child: ElevatedButton(
                                   style: ElevatedButton.styleFrom(
+                                    backgroundColor: lightGrey,
+
                                     foregroundColor: Colors.white,
                                     elevation: 0,
                                     side: BorderSide(
